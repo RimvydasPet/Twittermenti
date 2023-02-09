@@ -1,0 +1,9 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "This model is a text classifier (version 1) which classifies text according to set {Pos,Neg,Neutral}",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "13.2.0"
+  },
+  "MLModelAuthorKey" : "Rimvydas",
+  "MLModelLicenseKey" : "--"
+}

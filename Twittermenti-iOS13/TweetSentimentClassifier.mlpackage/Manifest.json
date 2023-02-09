@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "06554801-08D3-47EE-8100-1B524DDD3A8F": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "TweetSentimentClassifier.mlmodel",
+            "path": "com.apple.CoreML/TweetSentimentClassifier.mlmodel"
+        },
+        "4FAEF91E-4489-456C-83E8-226929DB96F1": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "87BDB776-5408-4769-B9EF-F732EBD27E52": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "06554801-08D3-47EE-8100-1B524DDD3A8F"
+}
